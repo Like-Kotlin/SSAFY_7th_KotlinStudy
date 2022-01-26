@@ -13,8 +13,8 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/Gideok">                 
-                <img alt="이기덕" src="https://avatars.githubusercontent.com/Gideok" width="200" />            
+            <a href="https://github.com/GideokLee">                 
+                <img alt="이기덕" src="https://avatars.githubusercontent.com/GideokLee" width="200" />            
             </a>
         </td>
         <td align="center">
