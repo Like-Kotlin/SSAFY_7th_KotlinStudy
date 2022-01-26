@@ -36,3 +36,14 @@
         <td align="center">이주은</td>
     </tr>
 </table>
+
+## ✏️ Study Plan 
+<details>
+    <summary> 2022년 1월 </summary>
+    <div markdown="1">
+        <br>
+        4주차 : 백준 기본문제 1 ~ 19번 중에 각 번호마다 최소 2문제 이상 풀기
+    </div>
+</details>
+
+
