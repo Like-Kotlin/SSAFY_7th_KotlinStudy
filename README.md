@@ -42,9 +42,9 @@
     <summary> 2022년 1월 </summary>
     <div markdown="1">
         <br>
-        5주차(2022-01-26 ~ 2022-02-02) : 백준 기본문제 1 ~ 19번 중에 각 번호마다 최소 2문제 이상 풀기
+        🎈 5주차(2022-01-26 ~ 2022-02-02) : 백준 기본문제 1 ~ 19번 중에 각 번호마다 최소 2문제 이상 풀기
         <br>
-        [백준 단계별로 풀어보기](https://www.acmicpc.net/step)
+        <a href="https://www.acmicpc.net/step"> 백준 알고리즘 단계별 문제풀이 ~20 </a>
     </div>
 </details>
 
