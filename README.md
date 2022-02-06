@@ -1,4 +1,5 @@
 # SSAFY_7th_KotlinStudy
+
 ## 🌈Contributors 
 <table align="center" style="font-weight : bold">
     <tr>
