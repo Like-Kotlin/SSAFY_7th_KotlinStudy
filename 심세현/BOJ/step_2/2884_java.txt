@@ -1,0 +1,24 @@
+import java.util.Scanner;
+ 
+public class Main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int hour = sc.nextInt();
+        int min = sc.nextInt();
+        sc.close();
+       
+        if(hour != 0 && min >= 45){
+            min = min - 45;
+        } else if(hour !=0 && min < 45){
+            hour = hour - 1;
+            min = 60 - (45 - min);
+        } else if(hour == 0 && min >= 45){
+            min = min - 45;
+        } else if(hour == 0 && min < 45){
+            hour = 23;
+            min = 60 - (45 - min);
+        }
+        System.out.printf("%d %d", hour, min);
+        
+    }
+}
