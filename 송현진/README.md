@@ -1,1 +1,1 @@
-# SSAFY_7th_KotlinStudy
+# 📚 kotlin study!
