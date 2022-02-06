@@ -94,15 +94,15 @@
 |:---:|:---:|:---:|
 |[조합 0의 개수](https://www.acmicpc.net/problem/2004)|수학, 정수론|실버 2|
 |[이항 계수 2](https://www.acmicpc.net/problem/11051)|수학, 조합론, DP|실버 1|
-- - -
+
 ## 18단계: 스택
 |제목|분류|LEVEL|
 |:---:|:---:|:---:|
-|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|수학, 소수판정|실버 2|
-|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|수학, 소수판정|실버 1|
+|[오큰수](https://www.acmicpc.net/problem/17298)|자료구조, 스택|골드 4|
+|[괄호](https://www.acmicpc.net/problem/9012)|자료구조, 문자열, 스택|실버 4|
 
 ## 19단계: 큐, 덱
 |제목|분류|LEVEL|
 |:---:|:---:|:---:|
-|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|수학, 소수판정|실버 2|
-|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|수학, 소수판정|실버 1|
+|[AC](https://www.acmicpc.net/problem/5430)|자료구조, 문자열, 덱|골드 5|
+|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|자료구조, 큐|실버 4|
