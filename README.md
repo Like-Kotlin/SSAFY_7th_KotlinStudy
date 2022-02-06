@@ -14,8 +14,8 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/Gideok">                 
-                <img alt="이기덕" src="https://avatars.githubusercontent.com/Gideok" width="200" />            
+            <a href="https://github.com/GideokLee">                 
+                <img alt="이기덕" src="https://avatars.githubusercontent.com/GideokLee" width="200" />            
             </a>
         </td>
         <td align="center">
@@ -37,3 +37,16 @@
         <td align="center">이주은</td>
     </tr>
 </table>
+
+## ✏️ Study Plan 
+<details>
+    <summary> 2022년 1월 </summary>
+    <div markdown="1">
+        <br>
+        🎈 5주차(2022-01-26 ~ 2022-02-02) : 백준 기본문제 1 ~ 19번 중에 각 번호마다 최소 2문제 이상 풀기
+        <br>
+        <a href="https://www.acmicpc.net/step"> 백준 알고리즘 단계별 문제풀이 ~20 </a>
+    </div>
+</details>
+
+
