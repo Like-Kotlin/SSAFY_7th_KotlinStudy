@@ -53,7 +53,7 @@
     <summary> 2022년 2월 </summary>
     <div markdown="1">
         <h3>7주차(2022-02-09 ~ 2022-02-16)</h3>
-        <table align="center" style="font-weight : bold">
+        <table style="font-weight : bold">
             <tr>
                 <td align="center">
                     제목
