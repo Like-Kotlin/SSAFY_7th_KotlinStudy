@@ -49,4 +49,55 @@
     </div>
 </details>
 
-
+<details>
+    <summary> 2022년 2월 </summary>
+    <div markdown="1">
+        <h3>7주차(2022-02-09 ~ 2022-02-16)</h3>
+        <table align="center" style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1874">
+                        스타수열
+                    </a>
+                </td>
+                <td align="center">
+                    자료구조, 스택
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/14425">
+                        문자열 집합
+                    </a>
+                </td>
+                <td align="center">
+                    자료구조, 문자열, 트리
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/11725">
+                        트리의 부모 찾기
+                    </a>
+                </td>
+                <td align="center">
+                    트리, DFS, BFS
+                </td>
+                <td align="center">실버 2</td>
+            </tr>
+        </table>
+    </div>
+</details>
