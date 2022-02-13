@@ -27,10 +27,7 @@ fun main(){
         }
     }
 
-    println(stringSet)
-
     println(ans)
-
 
 }
 
