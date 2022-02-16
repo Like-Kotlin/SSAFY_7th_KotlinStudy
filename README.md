@@ -100,10 +100,6 @@
             </tr>
         </table>
     </div>
-</details>
-
-<details>
-    <summary> 2022년 2월 </summary>
     <div markdown="1">
         <h3>8주차(2022-02-16 ~ 2022-02-23)</h3>
         <table style="font-weight : bold">
