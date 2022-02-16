@@ -101,3 +101,56 @@
         </table>
     </div>
 </details>
+
+<details>
+    <summary> 2022년 2월 </summary>
+    <div markdown="1">
+        <h3>8주차(2022-02-16 ~ 2022-02-23)</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/9613">
+                        GCD 합
+                    </a>
+                </td>
+                <td align="center">
+                    수학
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/20115">
+                        에너지 드링크
+                    </a>
+                </td>
+                <td align="center">
+                    그리디
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/9095">
+                        1, 2, 3 더하기
+                    </a>
+                </td>
+                <td align="center">
+                    다이나믹 프로그랭
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+        </table>
+    </div>
+</details>
