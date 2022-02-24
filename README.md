@@ -149,4 +149,53 @@
             </tr>
         </table>
     </div>
+        <div markdown="1">
+        <h3>9주차(2022-02-23 ~ 2022-03-02)</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/9251">
+                       LCS
+                    </a>
+                </td>
+                <td align="center">
+                   다이나믹 프로그래밍
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/21921">
+                        블로그
+                    </a>
+                </td>
+                <td align="center">
+                    투 포인터
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/21608">
+                        상어초등학교
+                    </a>
+                </td>
+                <td align="center">
+                    구현
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+        </table>
+    </div>
 </details>
