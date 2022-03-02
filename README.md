@@ -199,3 +199,56 @@
         </table>
     </div>
 </details>
+
+<details>
+    <summary> 2022년 3월 </summary>
+    <div markdown="1">
+        <h3>10주차(2022-03-02 ~ 2022-03-09)</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/5547">
+                        일루미네이션
+                    </a>
+                </td>
+                <td align="center">
+                    그래프 탐색, DFS, BFS
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1548">
+                        부분 삼각 수열
+                    </a>
+                </td>
+                <td align="center">
+                    그리디, 브루트포스, 정렬
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/16234">
+                        인구 이동
+                    </a>
+                </td>
+                <td align="center">
+                    그래프, 시뮬레이션
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+        </table>
+    </div>
+</details>
