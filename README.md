@@ -225,7 +225,7 @@
                 <td align="center">
                     그래프 탐색, DFS, BFS
                 </td>
-                <td align="center">실버 1</td>
+                <td align="center">골드 5</td>
             </tr>
             <tr>
                 <td align="center">
