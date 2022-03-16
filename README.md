@@ -268,7 +268,7 @@
             <tr>
                 <td align="center">
                     <a href="https://www.acmicpc.net/problem/22871">
-                        징검다리 건너기(larget) 
+                        징검다리 건너기(large) 
                     </a>
                 </td>
                 <td align="center">
@@ -295,6 +295,55 @@
                 </td>
                 <td align="center">
                     분할정복
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+        </table>
+    </div>
+    <div markdown="1">
+        <h3>12주차(2022-03-16 ~ 2022-03-23)</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/11660">
+                        구간 합 구하기 5 
+                    </a>
+                </td>
+                <td align="center">
+                    누적 합, 다이나믹 프로그래밍
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/17609">
+                       회문
+                    </a>
+                </td>
+                <td align="center">
+                    구현, 문자열, 투포인터
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/11265">
+                        끝나지 않는 파티
+                    </a>
+                </td>
+                <td align="center">
+                    최단 거리
                 </td>
                 <td align="center">실버 1</td>
             </tr>
