@@ -43,7 +43,7 @@
     <summary> 2022년 1월 </summary>
     <div markdown="1">
         <br>
-        🎈 5주차(2022-01-26 ~ 2022-02-02) : 백준 기본문제 1 ~ 19번 중에 각 번호마다 최소 2문제 이상 풀기
+        🎈 1주차(2022-01-26 ~ 2022-02-02) : 백준 기본문제 1 ~ 19번 중에 각 번호마다 최소 2문제 이상 풀기
         <br>
         <a href="https://www.acmicpc.net/step"> 백준 알고리즘 단계별 문제풀이 ~20 </a>
     </div>
@@ -52,7 +52,7 @@
 <details>
     <summary> 2022년 2월 </summary>
     <div markdown="1">
-        <h3>7주차(2022-02-09 ~ 2022-02-16)</h3>
+        <h3>2주차(2022-02-09 ~ 2022-02-16)</h3>
         <table style="font-weight : bold">
             <tr>
                 <td align="center">
@@ -101,7 +101,7 @@
         </table>
     </div>
     <div markdown="1">
-        <h3>8주차(2022-02-16 ~ 2022-02-23)</h3>
+        <h3>3주차(2022-02-16 ~ 2022-02-23)</h3>
         <table style="font-weight : bold">
             <tr>
                 <td align="center">
@@ -150,7 +150,7 @@
         </table>
     </div>
         <div markdown="1">
-        <h3>9주차(2022-02-23 ~ 2022-03-02)</h3>
+        <h3>4주차(2022-02-23 ~ 2022-03-02)</h3>
         <table style="font-weight : bold">
             <tr>
                 <td align="center">
@@ -203,7 +203,7 @@
 <details>
     <summary> 2022년 3월 </summary>
     <div markdown="1">
-        <h3>10주차(2022-03-02 ~ 2022-03-09)</h3>
+        <h3>5주차(2022-03-02 ~ 2022-03-09)</h3>
         <table style="font-weight : bold">
             <tr>
                 <td align="center">
@@ -252,7 +252,7 @@
         </table>
     </div>
         <div markdown="1">
-        <h3>11주차(2022-03-09 ~ 2022-03-16)</h3>
+        <h3>6주차(2022-03-09 ~ 2022-03-16)</h3>
         <table style="font-weight : bold">
             <tr>
                 <td align="center">
@@ -301,7 +301,7 @@
         </table>
     </div>
     <div markdown="1">
-        <h3>12주차(2022-03-16 ~ 2022-03-23)</h3>
+        <h3>7주차(2022-03-16 ~ 2022-03-23)</h3>
         <table style="font-weight : bold">
             <tr>
                 <td align="center">
