@@ -40,7 +40,6 @@ fun main(){
         }else{
             println("Stay here")
         }
-
     }
 
 }
