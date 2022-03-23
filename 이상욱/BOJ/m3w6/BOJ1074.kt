@@ -26,7 +26,6 @@ fun checkZ(mapSize: Int, r: Int, c: Int) {
     if(mapSize == 1){
         return
     }
-
     if(r < mapSize / 2 && c < mapSize / 2){
         checkZ(mapSize / 2,r,c)
     }else if(mapSize / 2 in (r + 1)..c){
