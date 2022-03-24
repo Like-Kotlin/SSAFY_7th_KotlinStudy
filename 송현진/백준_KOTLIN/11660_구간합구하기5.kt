@@ -44,15 +44,6 @@ fun calRectangle(x1:Int, y1:Int, x2:Int, y2:Int):Long {
         return arr[x1][y1]
     }
 
-    //세 로
-    if(x1 < x2 && y1 == y2){
-        return dp[x2][y2]-dp[x1-1][y1]-dp[x2][y2-1]+dp[x1-1][y1-1]
-    }
-
-    //가 로
-    if(x1 == x2 && y1 < y2){
-        return dp[x2][y2]-dp[x2-1][y2]-dp[x1][y1-1]+dp[x1-1][y1-1]
-    }
 
     //전체
     return dp[x2][y2]-dp[x1-1][y2]-dp[x2][y1-1]+dp[x1-1][y1-1]
