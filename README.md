@@ -349,4 +349,53 @@
             </tr>
         </table>
     </div>
+    <div markdown="1">
+        <h3>8주차(2022-03-24 ~ 2022-03-31)</h3>
+        <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/14567">
+                        선수과목
+                    </a>
+                </td>
+                <td align="center">
+                    위상 정렬, 
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1717">
+                        집합의 표현
+                    </a>
+                </td>
+                <td align="center">
+                    분리 집합
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1197">
+                        최소 스패닝 트리
+                    </a>
+                </td>
+                <td align="center">
+                    최소 스패닝 트리
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+        </table>
+    </div>
 </details>
