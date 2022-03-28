@@ -394,7 +394,7 @@
                 <td align="center">
                     최소 스패닝 트리
                 </td>
-                <td align="center">골드 5</td>
+                <td align="center">골드 4</td>
             </tr>
         </table>
     </div>
