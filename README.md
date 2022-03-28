@@ -383,7 +383,7 @@
                 <td align="center">
                     분리 집합
                 </td>
-                <td align="center">실버 1</td>
+                <td align="center">골드 4</td>
             </tr>
             <tr>
                 <td align="center">
