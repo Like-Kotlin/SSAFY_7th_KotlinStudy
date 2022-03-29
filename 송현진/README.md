@@ -101,8 +101,24 @@
 |                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 11660 구간합구하기5](https://www.acmicpc.net/problem/11660) | 누적 합, 다이나믹 프로그래밍  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/11660_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B05.kt) |  |
-| [BOJ 17609 회문](https://www.acmicpc.net/problem/17609) | 구현, 문자열, 투포인터 | [풀이]() | 0 - 리턴문 중요 |
-| [BOJ 11265 끝나지않는파티](https://www.acmicpc.net/problem/11265)  | 최단 거리 | [풀이]() |   |
+| [BOJ 17609 회문](https://www.acmicpc.net/problem/17609) | 구현, 문자열, 투포인터 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/17609_%ED%9A%8C%EB%AC%B8.kt) | 0 - 리턴문 중요 |
+| [BOJ 11265 끝나지않는파티](https://www.acmicpc.net/problem/11265)  | 최단 거리 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/11265_%EB%81%9D%EB%82%98%EC%A7%80%EC%95%8A%EB%8A%94%ED%8C%8C%ED%8B%B0.kt) | 플로이드 와샬(공식)  |
+
+<br>
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> 🎈 8주차 (2022-03-24 ~ 2022-03-31)</strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [BOJ 14567 선수과목](https://www.acmicpc.net/problem/11660) | 위상정렬 | [풀이]() |  |
+| [BOJ 1717 집합의표현](https://www.acmicpc.net/problem/17609) | 분리집합 | [풀이]() | |
+| [BOJ 1197 최소 스패닝 트리](https://www.acmicpc.net/problem/11265)  | 최소스패닝트리 | [풀이]() | |
 
 <br>
 </details>
