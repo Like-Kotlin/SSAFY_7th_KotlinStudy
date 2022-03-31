@@ -25,7 +25,12 @@
         </td>
         <td align="center">
             <a href="https://github.com/amane-IT">                 
-                <img alt="최주은" src="https://avatars.githubusercontent.com/amane-IT" width="200" />            
+                <img alt="이주은" src="https://avatars.githubusercontent.com/amane-IT" width="200" />            
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/dudwls901">                 
+                <img alt="김영진" src="https://avatars.githubusercontent.com/dudwls901" width="200" />            
             </a>
         </td>
     </tr>
@@ -35,6 +40,7 @@
         <td align="center">이기덕</td>
         <td align="center">이상욱</td>
         <td align="center">이주은</td>
+        <td align="center">김영진</td>
     </tr>
 </table>
 
