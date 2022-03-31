@@ -399,3 +399,55 @@
         </table>
     </div>
 </details>
+<details>
+    <summary> 2022년 4월 </summary>
+    <div markdown="1">
+        <h3>9주차(2022-03-31 ~ 2022-04-06)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/4358">
+                        생태학
+                    </a>
+                </td>
+                <td align="center">
+                    트라이
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/15681">
+                        트리와 쿼리
+                    </a>
+                </td>
+                <td align="center">
+                    트리, 다이나믹 프로그래밍
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1935">
+                        후위 표기식 2
+                    </a>
+                </td>
+                <td align="center">
+                    자료구조, 스택
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+        </table>
+    </div>
+</details>
