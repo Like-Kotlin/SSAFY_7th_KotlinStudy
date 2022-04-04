@@ -118,7 +118,7 @@
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 14567 선수과목](https://www.acmicpc.net/problem/11660) | 위상정렬 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/14567_%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9.kt) | 2가지 방법 가능 |
 | [BOJ 1717 집합의표현](https://www.acmicpc.net/problem/17609) | 분리집합 | [풀이]() | |
-| [BOJ 1197 최소 스패닝 트리](https://www.acmicpc.net/problem/11265)  | 최소스패닝트리 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.kt) | 프림,크루스칼 |
+| [BOJ 1197 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)  | 최소스패닝트리 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.kt) | 프림,크루스칼 |
 
 <br>
 </details>
