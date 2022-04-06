@@ -477,7 +477,7 @@
                     </a>
                 </td>
                 <td align="center">
-                    트리
+                    트리, 그래프
                 </td>
                 <td align="center">골드 5</td>
             </tr>
@@ -488,7 +488,7 @@
                     </a>
                 </td>
                 <td align="center">
-                    수학
+                    수학, 브루트포스
                 </td>
                 <td align="center">실버 3</td>
             </tr>
@@ -499,7 +499,7 @@
                     </a>
                 </td>
                 <td align="center">
-                    그리디
+                    그리디, 정렬
                 </td>
                 <td align="center">실버 2</td>
             </tr>
