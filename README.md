@@ -456,4 +456,53 @@
             </tr>
         </table>
     </div>
+    <div markdown="1">
+        <h3>10주차(2022-04-06 ~ 2022-04-13)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1068">
+                        트리
+                    </a>
+                </td>
+                <td align="center">
+                    트리
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/21275">
+                        폰 호석만
+                    </a>
+                </td>
+                <td align="center">
+                    수학
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1931">
+                        회의실 배정
+                    </a>
+                </td>
+                <td align="center">
+                    그리디
+                </td>
+                <td align="center">실버 2</td>
+            </tr>
+        </table>
+    </div>
 </details>
