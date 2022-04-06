@@ -116,9 +116,41 @@
 
 |                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
-| [BOJ 14567 선수과목](https://www.acmicpc.net/problem/11660) | 위상정렬 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/14567_%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9.kt) | 2가지 방법 가능 |
-| [BOJ 1717 집합의표현](https://www.acmicpc.net/problem/17609) | 분리집합 | [풀이]() | |
+| [BOJ 14567 선수과목](https://www.acmicpc.net/problem/14567) | 위상정렬 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/14567_%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9.kt) | 2가지 방법 가능 |
+| [BOJ 1717 집합의표현](https://www.acmicpc.net/problem/1717) | 분리집합 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1717_%EC%A7%91%ED%95%A9%EC%9D%98%ED%91%9C%ED%98%84.kt) | 기초 유니온 파인드|
 | [BOJ 1197 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)  | 최소스패닝트리 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.kt) | 프림,크루스칼 |
+
+<br>
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> 🎈 9주차(2022-03-31 ~ 2022-04-06) </strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [BOJ 4358 생태학](https://www.acmicpc.net/problem/4358) | 트라이 | [풀이]() |  |
+| [BOJ 15681 트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리, dp | [풀이]() | |
+| [BOJ 1935 후위표기식2](https://www.acmicpc.net/problem/1935)  | 자료구조, 스택 | [풀이]() |  |
+
+<br>
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> 🎈 10주차(2022-04-06 ~ 2022-04-13) </strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [BOJ 1068 트리](https://www.acmicpc.net/problem/1068) | 트리,그래프 | [풀이]() |  |
+| [BOJ 21275 폰호석만](https://www.acmicpc.net/problem/21275) | 수학, 브루트포스 | [풀이]() | |
+| [BOJ 1931 회의실 배정](https://www.acmicpc.net/problem/1931)  | 그리디, 정렬 | [풀이]() |  |
 
 <br>
 </details>
