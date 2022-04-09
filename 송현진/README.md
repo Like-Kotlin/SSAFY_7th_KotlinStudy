@@ -132,9 +132,9 @@
 
 |                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
-| [BOJ 4358 생태학](https://www.acmicpc.net/problem/4358) | 트라이 | [풀이]() |  |
+| [BOJ 4358 생태학](https://www.acmicpc.net/problem/4358) | 트라이 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/4358_%EC%83%9D%ED%83%9C%ED%95%99.kt) | 트리맵 |
 | [BOJ 15681 트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리, dp | [풀이]() | |
-| [BOJ 1935 후위표기식2](https://www.acmicpc.net/problem/1935)  | 자료구조, 스택 | [풀이]() |  |
+| [BOJ 1935 후위표기식2](https://www.acmicpc.net/problem/1935)  | 자료구조, 스택 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1935_%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D2.kt) | 후위식 연산 |
 
 <br>
 </details>
