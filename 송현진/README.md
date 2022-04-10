@@ -13,7 +13,7 @@
 <summary><strong> 🎈 2주차 (2022/02/09 ~ 2022/02/16)</strong></summary>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 1874 스택수열](https://www.acmicpc.net/problem/1874) | 자료구조,스택  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.kt) |   |
 | [BOJ 14425 문자열집합](https://www.acmicpc.net/problem/14425) | 자료구조,문자열,트리  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/14425_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A7%91%ED%95%A9.kt)                              |  | 
@@ -30,7 +30,7 @@
 <br>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 9613 GCD합](https://www.acmicpc.net/problem/9613) | 수학  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/9613_GCD%ED%95%A9.kt) |   |
 | [BOJ 20115 에너지드링크](https://www.acmicpc.net/problem/20115) | 그리디 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/20115_%EC%97%90%EB%84%88%EC%A7%80%EB%93%9C%EB%A7%81%ED%81%AC.kt) |  |
@@ -47,7 +47,7 @@
 <br>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 9251 LCS](https://www.acmicpc.net/problem/9251) | DP  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/9251_LCS.kt) | 0  |
 | [BOJ 21921 블로그](https://www.acmicpc.net/problem/21921) | 투포인터 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/21921_%EB%B8%94%EB%A1%9C%EA%B7%B8.kt) |  |
@@ -65,7 +65,7 @@
 <br>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 5547 일루미네이션](https://www.acmicpc.net/problem/5547) | 그래프 탐색, DFS, BFS  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/5547_%EC%9D%BC%EB%A3%A8%EB%AF%B8%EB%84%A4%EC%9D%B4%EC%85%98.kt) |  |
 | [BOJ 1548 부분삼각수열](https://www.acmicpc.net/problem/1548) | 	그리디, 브루트포스, 정렬 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1548_%EB%B6%80%EB%B6%84%EC%82%BC%EA%B0%81%EC%88%98%EC%97%B4.kt) |  |
@@ -81,7 +81,7 @@
 <br>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 22871 징검다리건너기](https://www.acmicpc.net/problem/22871) | 이분탐색  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/22871_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0(large).kt) |  0 - dp 응용력 필요 |
 | [BOJ 1174 줄어드는수](https://www.acmicpc.net/problem/1174) | 백트래킹 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1174_%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94%EC%88%98.kt) | 0 - 비트마스킹 이해도 필요 |
@@ -98,7 +98,7 @@
 <br>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 11660 구간합구하기5](https://www.acmicpc.net/problem/11660) | 누적 합, 다이나믹 프로그래밍  | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/11660_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B05.kt) |  |
 | [BOJ 17609 회문](https://www.acmicpc.net/problem/17609) | 구현, 문자열, 투포인터 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/17609_%ED%9A%8C%EB%AC%B8.kt) | 0 - 리턴문 중요 |
@@ -114,7 +114,7 @@
 <br>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 14567 선수과목](https://www.acmicpc.net/problem/14567) | 위상정렬 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/14567_%EC%84%A0%EC%88%98%EA%B3%BC%EB%AA%A9.kt) | 2가지 방법 가능 |
 | [BOJ 1717 집합의표현](https://www.acmicpc.net/problem/1717) | 분리집합 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1717_%EC%A7%91%ED%95%A9%EC%9D%98%ED%91%9C%ED%98%84.kt) | 기초 유니온 파인드|
@@ -130,11 +130,11 @@
 <br>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 4358 생태학](https://www.acmicpc.net/problem/4358) | 트라이 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/4358_%EC%83%9D%ED%83%9C%ED%95%99.kt) | 트리맵 |
-| [BOJ 15681 트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리, dp | [풀이]() | |
-| [BOJ 1935 후위표기식2](https://www.acmicpc.net/problem/1935)  | 자료구조, 스택 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1935_%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D2.kt) | 후위식 연산 |
+| [BOJ 15681 트리와 쿼리](https://www.acmicpc.net/problem/15681) | 트리, dp | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/15681_%ED%8A%B8%EB%A6%AC%EC%99%80%EC%BF%BC%EB%A6%AC.kt) |  dp방법이 더 빠르긴함. 트리짜는 법도 익히기 |
+| [BOJ 1935 후위표기식2](https://www.acmicpc.net/problem/1935)  | 자료구조, 스택 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1935_%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D2.kt) | 후위식 연산 공식 |
 
 <br>
 </details>
@@ -146,7 +146,7 @@
 <br>
 <br>
 
-|                             문제                             | 문제 유형 |                  풀이                  | 리마인드필요 |
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
 | [BOJ 1068 트리](https://www.acmicpc.net/problem/1068) | 트리,그래프 | [풀이]() |  |
 | [BOJ 21275 폰호석만](https://www.acmicpc.net/problem/21275) | 수학, 브루트포스 | [풀이]() | |
