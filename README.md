@@ -25,7 +25,12 @@
         </td>
         <td align="center">
             <a href="https://github.com/amane-IT">                 
-                <img alt="최주은" src="https://avatars.githubusercontent.com/amane-IT" width="200" />            
+                <img alt="이주은" src="https://avatars.githubusercontent.com/amane-IT" width="200" />            
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/dudwls901">                 
+                <img alt="김영진" src="https://avatars.githubusercontent.com/dudwls901" width="200" />            
             </a>
         </td>
     </tr>
@@ -35,6 +40,7 @@
         <td align="center">이기덕</td>
         <td align="center">이상욱</td>
         <td align="center">이주은</td>
+        <td align="center">김영진</td>
     </tr>
 </table>
 
@@ -395,6 +401,156 @@
                     최소 스패닝 트리
                 </td>
                 <td align="center">골드 4</td>
+            </tr>
+        </table>
+    </div>
+</details>
+<details>
+    <summary> 2022년 4월 </summary>
+    <div markdown="1">
+        <h3>9주차(2022-03-31 ~ 2022-04-06)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/4358">
+                        생태학
+                    </a>
+                </td>
+                <td align="center">
+                    트라이
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/15681">
+                        트리와 쿼리
+                    </a>
+                </td>
+                <td align="center">
+                    트리, 다이나믹 프로그래밍
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1935">
+                        후위 표기식 2
+                    </a>
+                </td>
+                <td align="center">
+                    자료구조, 스택
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+        </table>
+    </div>
+    <div markdown="1">
+        <h3>10주차(2022-04-06 ~ 2022-04-13)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1068">
+                        트리
+                    </a>
+                </td>
+                <td align="center">
+                    트리, 그래프
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/21275">
+                        폰 호석만
+                    </a>
+                </td>
+                <td align="center">
+                    수학, 브루트포스
+                </td>
+                <td align="center">실버 3</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1931">
+                        회의실 배정
+                    </a>
+                </td>
+                <td align="center">
+                    그리디, 정렬
+                </td>
+                <td align="center">실버 2</td>
+            </tr>
+        </table>
+    </div>
+        <div markdown="1">
+        <h3>11주차(2022-04-13 ~ 2022-04-20)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/9465">
+                        스티커
+                    </a>
+                </td>
+                <td align="center">
+                    다이나믹 프로그래밍
+                </td>
+                <td align="center">실버 1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/2225">
+                        합 분해
+                    </a>
+                </td>
+                <td align="center">
+                    다이나믹 프로그래밍, 수학
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/20922">
+                        겹치는 건 싫어
+                    </a>
+                </td>
+                <td align="center">
+                    투 포인터
+                </td>
+                <td align="center">실버 1</td>
             </tr>
         </table>
     </div>
