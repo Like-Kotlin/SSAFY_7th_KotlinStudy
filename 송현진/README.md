@@ -148,9 +148,24 @@
 
 |                             문제                             | 문제 유형 |                  풀이                  | 기타 |
 | :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
-| [BOJ 1068 트리](https://www.acmicpc.net/problem/1068) | 트리,그래프 | [풀이]() |  |
-| [BOJ 21275 폰호석만](https://www.acmicpc.net/problem/21275) | 수학, 브루트포스 | [풀이]() | |
-| [BOJ 1931 회의실 배정](https://www.acmicpc.net/problem/1931)  | 그리디, 정렬 | [풀이]() |  |
+| [BOJ 1068 트리](https://www.acmicpc.net/problem/1068) | 트리,그래프 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1068_%ED%8A%B8%EB%A6%AC.kt) | 다시 풀기, dfs응용 |
+| [BOJ 21275 폰호석만](https://www.acmicpc.net/problem/21275) | 수학, 브루트포스 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/21275_%ED%8F%B0%ED%98%B8%EC%84%9D%EB%A7%8C.kt) | 진법변환 -> Integer.parse(바꿀 문자열,i)|
+| [BOJ 1931 회의실 배정](https://www.acmicpc.net/problem/1931)  | 그리디, 정렬 | [풀이](https://github.com/Like-Kotlin/SSAFY_7th_KotlinStudy/blob/main/%EC%86%A1%ED%98%84%EC%A7%84/%EB%B0%B1%EC%A4%80_KOTLIN/1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%95.kt) | Node: Comparable<Node>로 우선순위 지정하는 방법 자주 쓰임, 구현법 숙지 |
+
+<br>
+</details>
+
+
+<details markdown="1">
+<summary><strong> 🎈 11주차(2022-04-13 ~ 2022-04-20) </strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [BOJ 9465 스티커](https://www.acmicpc.net/problem/9465) | dp | [풀이]() |  |
+| [BOJ 2225 합분해](https://www.acmicpc.net/problem/2225) | dp, 수학 | [풀이]() | |
+| [BOJ 20922 겹치는 건 싫어](https://www.acmicpc.net/problem/20922)  | 투 포인터 | [풀이]() |  |
 
 <br>
 </details>
