@@ -554,4 +554,53 @@
             </tr>
         </table>
     </div>
+    <div markdown="1">
+        <h3>12주차(2022-04-20 ~ 2022-04-27)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/15787">
+                        기차가 어둠을 헤치고 은하수를
+                    </a>
+                </td>
+                <td align="center">
+                    구현, 시뮬레이션
+                </td>
+                <td align="center">실버 2</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/14502">
+                        연구소
+                    </a>
+                </td>
+                <td align="center">
+                    그래프 탐색, BFS
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://www.acmicpc.net/problem/1025">
+                        제곱수 찾기
+                    </a>
+                </td>
+                <td align="center">
+                    브루트포스
+                </td>
+                <td align="center">골드 5</td>
+            </tr>
+        </table>
+    </div>
 </details>
