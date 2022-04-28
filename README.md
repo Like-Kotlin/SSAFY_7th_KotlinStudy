@@ -603,4 +603,53 @@
             </tr>
         </table>
     </div>
+     <div markdown="1">
+        <h3>13주차(2022-04-27 ~ 2022-05-04)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/92334">
+                        신고 결과 받기
+                    </a>
+                </td>
+                <td align="center">
+                    2022 KAKAO BLIND RECRUITMENT
+                </td>
+                <td align="center">Lv.1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/92341">
+                        주차 요금 계산
+                    </a>
+                </td>
+                <td align="center">
+                    2022 KAKAO BLIND RECRUITMENT
+                </td>
+                <td align="center">Lv.2</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/92343">
+                        양과 늑대
+                    </a>
+                </td>
+                <td align="center">
+                    2022 KAKAO BLIND RECRUITMENT
+                </td>
+                <td align="center">Lv.3</td>
+            </tr>
+        </table>
+    </div>
 </details>
