@@ -653,3 +653,54 @@
         </table>
     </div>
 </details>
+<details>
+    <summary> 2022년 5월 </summary>
+    <div markdown="1">
+        <h3>9주차(2022-05-04 ~ 2022-05-11)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/72410">
+                        신규 아이디 추천
+                    </a>
+                </td>
+                <td align="center">
+                    2021 KAKAO BLIND RECRUITMENT
+                </td>
+                <td align="center">Lv.1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/72411">
+                        메뉴 리뉴얼
+                    </a>
+                </td>
+                <td align="center">
+                    2021 KAKAO BLIND RECRUITMENT
+                </td>
+                <td align="center">Lv.2</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/72413">
+                        합승 택시 요금
+                    </a>
+                </td>
+                <td align="center">
+                    2021 KAKAO BLIND RECRUITMENT
+                </td>
+                <td align="center">Lv.3</td>
+            </tr>
+        </table>
+    </div>
