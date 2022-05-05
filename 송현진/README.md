@@ -126,7 +126,7 @@
 
 
 <details markdown="1">
-<summary><strong> 🎈 9주차(2022-03-31 ~ 2022-04-06) </strong></summary>
+<summary><strong> 🎈 14주차(2022-03-31 ~ 2022-04-06) </strong></summary>
 <br>
 <br>
 
@@ -169,3 +169,52 @@
 
 <br>
 </details>
+
+
+
+<details markdown="1">
+<summary><strong> 🎈 12주차(2022-04-20 ~ 2022-04-27) </strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [BOJ 기차가 어둠을 헤치고 은하수를](https://www.acmicpc.net/problem/15787) | 구현,시뮬레이션 | [풀이]() |  |
+| [BOJ 연구소](https://www.acmicpc.net/problem/14502) | 그래프탐색,bfs | [풀이]() | |
+| [BOJ 제곱수찾기](https://www.acmicpc.net/problem/1025)  | 브루트포스 | [풀이]() |  |
+
+<br>
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> 🎈 13주차(2022-04-27 ~ 2022-05-04) </strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [프로그래머스 신고결과받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | 해시맵 | [풀이]() |  |
+| [프로그래머스 주차요금계산](https://programmers.co.kr/learn/courses/30/lessons/92341) | 해시 | [풀이]() | |
+| [프로그래머스 양과늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)  | 그래프 | [풀이]() |  |
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 🎈 13주차(2022-04-27 ~ 2022-05-04) </strong></summary>
+<br>
+<br>
+
+|                             문제                             | 문제 유형 |                  풀이                  | 기타 |
+| :----------------------------------------------------------: | :-------: | :------------------------------------: |:-------:|
+| [프로그래머스 신규아이디추천](https://programmers.co.kr/learn/courses/30/lessons/72410) |  | [풀이]() |  |
+| [프로그래머스 메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |  | [풀이]() | |
+| [프로그래머스 합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413)  | 그래프 | [풀이]() |  |
+
+<br>
+</details>
+
+
+
