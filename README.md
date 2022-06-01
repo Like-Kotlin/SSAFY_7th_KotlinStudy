@@ -753,3 +753,56 @@
             </tr>
         </table>
     </div>
+    </details>
+    <details>
+    <summary> 2022년 6월 </summary>
+     <div markdown="1">
+        <h3>16주차(2022-06-01 ~ 2022-06-08)</h3>
+       <table style="font-weight : bold">
+            <tr>
+                <td align="center">
+                    제목
+                </td>
+                <td align="center">
+                    분류
+                </td>
+                <td align="center">
+                    레벨
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/81301">
+                        숫자 문자열과 영단어
+                    </a>
+                </td>
+                <td align="center">
+                    2021 카카오 채용연계형 인턴쉽
+                </td>
+                <td align="center">Lv.1</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/81302">
+                        거리두기 확인하기
+                    </a>
+                </td>
+                <td align="center">
+                    2021 카카오 채용연계형 인턴쉽
+                </td>
+                <td align="center">Lv.2</td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <a href="https://programmers.co.kr/learn/courses/30/lessons/81303">
+                        표 편집
+                    </a>
+                </td>
+                <td align="center">
+                    2021 카카오 채용연계형 인턴쉽
+                </td>
+                <td align="center">Lv.3</td>
+            </tr>
+        </table>
+    </div>
+     </details>
