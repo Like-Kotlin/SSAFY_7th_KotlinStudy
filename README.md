@@ -832,7 +832,7 @@
             </tr>
             <tr>
                 <td align="center">
-                    <a href="acmicpc.net/problem/14888">
+                    <a href="https://www.acmicpc.net/problem/14888">
                         연산자 끼워넣기
                     </a>
                 </td>
